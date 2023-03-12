@@ -22,4 +22,4 @@
 
 
 
-Created by https://www.toptal.com/developers/gitignore/api/node
+ by https://www.toptal.com/developers/gitignore/api/node
